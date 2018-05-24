@@ -1,4 +1,4 @@
-[![Voicybot](/images/logo.png?raw=true)](http://voicybot.com/)
+![bitcoin-draw-server](/images/logo.png?raw=true)
 
 # Bitcoin-draw server repository
 This repository contains the bitcoin lottery I wrote a while ago. Please, feel free to fork and use this code for whatever reasons you want.
