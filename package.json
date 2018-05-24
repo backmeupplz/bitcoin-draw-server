@@ -1,0 +1,29 @@
+{
+  "name": "bitcoin-draw-backend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bitcore-lib": "^0.14.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "~1.13.2",
+    "cors": "^2.8.1",
+    "date-format": "^1.1.0",
+    "dotenv": "^4.0.0",
+    "express": "~4.13.1",
+    "later": "^1.2.0",
+    "mongoose": "^4.9.1",
+    "morgan": "~1.6.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
